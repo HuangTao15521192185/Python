@@ -1,6 +1,5 @@
 This repository is for Python project.
 Begin with 2019...
-add dev feature1.
 
 
 
