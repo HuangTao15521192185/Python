@@ -1,2 +1,2 @@
 This is test.
-bug 101 fixed.
+bug 101 fixed
