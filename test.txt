@@ -1,2 +1,2 @@
-This is test.
+This is test for dev.
 bug 101 fixed
